@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 # 🔭 currently working on ...AI, Machine Learnig, Deep Learning
 # 🌱 currently learning ...Robotics, IOT
 # 👯 looking to collaborate on ...Neural Network Projects
-# 💬 Ask me about ...Anything related to programming
+# 💬 Reach me at : Linkedin https://www.linkedin.com/in/tekrajawasthi34456b162/
 
