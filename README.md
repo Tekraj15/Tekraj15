@@ -1,5 +1,6 @@
 ### Hi there 👋
 # Feed me some good codes and calm music.
+  -breaking things at day and building at nights.
 <!--
 **Tekraj15/Tekraj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 ![CodingSoulAlwaysExpresses](https://user-images.githubusercontent.com/38464224/87760321-31a1eb00-c82d-11ea-8523-0e0ff0dc07d4.jpg)
 
 # 🔭 currently working on ...AI, Machine Learnig, Deep Learning
-# 🌱 currently learning ...Robotics, IOT
+# 🌱 currently learning ...AZURE AI, Robotics
 # 👯 looking to collaborate on ...Neural Network Projects
 # 💬 Reach me at : Linkedin https://www.linkedin.com/in/tekrajawasthi34456b162/
 
