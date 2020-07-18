@@ -23,6 +23,7 @@ Here are some ideas to get you started:
                            Azure AI, Robotics
 # 👯 looking to collaborate on ...
                                 Neural Network Projects
-# 💬 Reach me at : 
-                 https://www.linkedin.com/in/tekrajawasthi34456b162/
+# 💬 Reach me at :
+https://www.linkedin.com/in/tekrajawasthi34456b162/
+                 
 
