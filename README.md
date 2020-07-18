@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 -->
 ![CodingSoulAlwaysExpresses](https://user-images.githubusercontent.com/38464224/87760321-31a1eb00-c82d-11ea-8523-0e0ff0dc07d4.jpg)
 
-# 🔭 currently working on ...AI, Machine Learnig, Deep Learning
-# 🌱 currently learning ...Azure AI, Robotics
-# 👯 looking to collaborate on ...Neural Network Projects
-# 💬 Reach me at : Linkedin https://www.linkedin.com/in/tekrajawasthi34456b162/
+# 🔭 currently working on ..
+                          AI, Machine Learnig, Deep Learning
+# 🌱 currently learning ...
+                           Azure AI, Robotics
+# 👯 looking to collaborate on ...
+                                Neural Network Projects
+# 💬 Reach me at : 
+                 https://www.linkedin.com/in/tekrajawasthi34456b162/
 
