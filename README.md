@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 🔭 currently working on ..
                           AI, Machine Learning, Deep Learning
 # 🌱 currently learning ...
-                           Azure AI, Robotics
+                           Azure AI, NLP, Robotics
 # 👯 looking to collaborate on ...
                                 Neural Network Projects
 # 💬 Reach me at :
