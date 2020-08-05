@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # 🌱 currently learning ...
                            Azure AI, NLP, Robotics
 # 👯 looking to collaborate on ...
-                                Neural Network Projects
+                                ML based Linkedin Job Search Optimization Software development
 # 💬 Reach me at :
 https://www.linkedin.com/in/tekrajawasthi34456b162/
                  
