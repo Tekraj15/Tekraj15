@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ML APIs**
 
-- 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15](https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15)
+- 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Data Science**
 
