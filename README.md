@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Recommendatiom system and Next Code Snippet Prediction on Dcoder mobile coding app for and GPT-3  project at Dcoder.tech under Google Startup Accelerator**
+- 🔭 I’m currently working on **Machine Learning Recommendatiom system and Next Code Snippet Prediction on Dcoder mobile coding app at Dcoder.tech under Google Startup Accelerator**
 
-- 🌱 I’m currently learning **AWS ML, Azure AI, Django**
+- 🌱 I’m currently learning ** GCP,AWS ML, GPT-2**
 
 - 👯 I’m looking to collaborate on **ML APIs**
 
