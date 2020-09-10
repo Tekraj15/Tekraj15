@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on  **ML Recommendatiom system and Code Snippet Prediction, and GPT-3 project on Dcoder mobile coding app at Dcoder.tech under Google Startup Accelerator**
 
-- 🌱 I’m currently learning ** GCP,AWS ML, GPT-2**
+- 🌱 I’m currently learning **GCP, AWS ML, GPT-2**
 
-- 👯 I’m looking to collaborate on **ML APIs**
+- 👯 I’m looking to collaborate on **Google Cloud ML APIs**
 
 - 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
