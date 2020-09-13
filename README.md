@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/, https://twitter.com/dotpyarmy**
 
-- ⚡ Fun fact **In ❤️ with AI**
+- ⚡ Fun fact **In ❤️ with AI, Always tweets in midnight**
 
 ![CodingSoulAlwaysExpresses](https://user-images.githubusercontent.com/38464224/92307298-15136b00-efb3-11ea-8e34-7a310dda6749.jpg)
 
