@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  **ML Recommendatiom system and Code Snippet Search & Prediction, on Dcoder mobile coding app at Dcoder.tech under Google Startup Accelerator**
 
-- 🌱 I’m currently learning **GCP, AWS ML, GPT-2**
+- 🌱 I’m currently learning **GCP, AWS ML, NLP**
 
 - 👯 I’m looking to collaborate on **Google Cloud ML APIs**
 
