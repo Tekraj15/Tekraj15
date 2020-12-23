@@ -6,10 +6,6 @@
 
 - 🔭 I’m previously worked on  **Personalised Recommendatiom system using Machine Learning and Code Snippet Search & Prediction, on Dcoder mobile coding app at Dcoder.tech under Google Startup Accelerator**
 
-- 🌱 I’m currently learning **GCP, AWS ML, NLP**
-
-- 👯 I’m looking to collaborate on **Google Cloud ML APIs**
-
 - 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Data Science**
