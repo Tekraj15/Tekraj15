@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 🔭 I’m previously worked on  **Personalised Recommendatiom system using Machine Learning and Code Snippet Search & Prediction, on Dcoder mobile coding app at Dcoder.tech under Google Startup Accelerator**
+- 🔭 I previously worked at ** 1. Dcoder.tech as a Machine Learning Developer Intern** ** CoseSpeedy as a ML & Deep Learning Intern**
 
 - 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
