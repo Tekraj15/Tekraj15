@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 🔭 I previously worked at **1.Dcoder.tech as a Machine Learning Developer Intern**  **2.CodeSpeedy as a ML & Deep Learning Intern**
+- 🔭 I previously worked at **1. Dcoder.tech as a Machine Learning Developer Intern**  **2. CodeSpeedy as a ML & Deep Learning Intern**
 
 - 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
