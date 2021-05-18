@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Data Science**
 
-- 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/, https://twitter.com/dotpyarmy**
+- 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/**
 
 - ⚡ Fun fact **In ❤️ with AI, Always tweets in midnight**
 
