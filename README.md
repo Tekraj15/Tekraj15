@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
 <h3 align="center">A passionate AI & ML Developer from Nepal, And a Wannapreneur.</h3>
-<h5 align="center"><i> -Find me in the corner of room with my hands dirty with codes on AI,Machine Learning, Neural Networks.</i></h3>
+<h5 align="center"><i> -Find me in the corner of room with my hands dirty with codes on AI, Machine Learning & Neural Networks.</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
