@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 💻 Jr. Software Engineer (Machine Learning) @Bungee Tech
+- 💻 Associate Software Engineer (Machine Learning) @Bungee Tech
  
 - 🖥 I previously worked at **1. Dcoder.tech as a Machine Learning Developer Intern**  **2. CodeSpeedy as a ML & Deep Learning Intern**
 
