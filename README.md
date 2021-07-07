@@ -30,4 +30,6 @@
 <a href="https://linkedin.com/in/tekrajawasthi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tekrajawasthi15" height="30" width="30" /></a>
 <a href="https://medium.com/@tekrajawasthi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tekrajawasthi15" height="30" width="30" /></a>
 </p>
+
+<img src="https://camo.githubusercontent.com/bbb3fdd069e287c54fbc41f4a584da29ae0d1cfcf53c2689b038af464d7a0568/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6b69746170757269" alt="Github Streak Stats" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapuri" style="max-width:100%;">
 -->
