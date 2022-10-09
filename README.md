@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **In ❤️ with AI, Always tweets in midnight**
 
-![CodingSoulAlwaysExpresses](https://user-images.githubusercontent.com/38464224/92307298-15136b00-efb3-11ea-8e34-7a310dda6749.jpg)
+
 
 
 ### Programming Languages & Tools
