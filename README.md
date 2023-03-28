@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 💻 Associate Data Engineer @Bungee Tech
+- 💻 Associate Data Engineer @Bungee Tech  || Primary Skills : Python, AWS, PySpark, SQL, ETL development, Dashboard Visualization, Machine Learning, Deep Learning
  
 - 🖥 I previously worked at **1. Dcoder.tech as a Machine Learning Developer Intern**  **2. CodeSpeedy as a ML & Deep Learning Intern**
 
 - 📝 I regulary write articles on [https://valueml.com/author/tekrajawasthi15/, https://medium.com/@tekrajawasthi15]
 
-- 💬 Ask me about **AI, Machine Learning, Deep Learning, Data Science**
+- 💬 You can ask me about ** AI, Machine Learning, Data Science, AWS Cloud**
 
 - 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/**
 
-- ⚡ Fun fact **In ❤️ with AI, Always tweets in midnight**
 
 
 
