@@ -5,7 +5,7 @@
 
 - 💻 Data Engineer | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills : Python, AWS, SQL, PySpark, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization, Machine Learning, Deep Learning
  
-- 🖥 I previously worked at **1 . Data Engineer @ Bungee Tech, 2. Machine Learning Developer Intern @ Dcoder **  **3. CodeSpeedy as a ML & Deep Learning Intern**
+- 🖥 I previously worked as **1 . Data Engineer @ Bungee Tech, 2. Machine Learning Developer Intern @ Dcoder **  **3. CodeSpeedy as a ML & Deep Learning Intern**
 
 - 📝 I regulary write articles on [https://medium.com/@tekrajawasthi15, https://twitter.com/tr_codes_]
 
