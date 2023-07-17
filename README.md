@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 💻 Data Engineer | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills : Python, AWS, SQL, PySpark, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization, Machine Learning, Deep Learning
+- 💻 Data Engineer @ ZS Associates | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
  
 - 🖥 I previously worked as **1 . Data Engineer @ Bungee Tech, 2. Machine Learning Developer Intern @ Dcoder **  **3. CodeSpeedy as a ML & Deep Learning Intern**
 
