@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
-<h3 align="center">A DataPreneur from mountains who loves to find the altitude of data and it's power.</h3>
+<h3 align="center">A DataPreneur hailing from the land of Majestic Mountains who loves to find the altitude of data and convert it into Cash.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
 - 💻 Data Engineer @ ZS Associates | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
+
+
  
 - 🖥 I previously worked as **1. Machine Learning & Data Engineer @ Vaionex Corporation, 2. Data Engineer @ Bungee Tech, 3. Machine Learning Developer Intern @ Dcoder 4. Machine Learning Intern @ CodeSpeedy Technology **
 
