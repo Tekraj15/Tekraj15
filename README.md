@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
-<h3 align="center">A DataPreneur hailing from the land of Majestic Mountains who loves to find the altitude of data and convert it into Cash.</h3>
+<h3 align="center">A DataPreneur hailing from the land of Majestic Mountains who loves to find the altitude of data and leverage it's power.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
