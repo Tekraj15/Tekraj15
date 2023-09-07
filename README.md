@@ -5,9 +5,9 @@
 
 - 💻 Data Engineer @ ZS Associates | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
  
-- 🖥 I previously worked as **1 . Data Engineer @ Bungee Tech, 2. Machine Learning Developer Intern @ Dcoder **  **3. CodeSpeedy as a ML & Deep Learning Intern**
+- 🖥 I previously worked as **1. Machine Learning & Data Engineer @ Vaionex Corporation 2 . Data Engineer @ Bungee Tech, 3. Machine Learning Developer Intern @ Dcoder **  **4. CodeSpeedy as a ML & Deep Learning Intern**
 
-- 📝 I regulary write articles on [https://medium.com/@tekrajawasthi15, https://twitter.com/tr_codes_]
+- 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://twitter.com/trawasthi_ai_]
 
 - 💬 You can ask me about ** Big Data, AI, Machine Learning, Data Science, AWS Cloud**
 
