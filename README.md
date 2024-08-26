@@ -9,7 +9,7 @@
  
 - 🖥 I previously worked as **2. Data Engineer @ ZS Associates. 2. Machine Learning & Data Engineer @ Vaionex Corporation, 3. Data Engineer @ Bungee Tech, 4. Machine Learning Developer Intern @Dcoder 5. Machine Learning Intern @CodeSpeedy Technology **
 
-- 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://twitter.com/trawasthi_ai_]
+- 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://x.com/trawasthi_ai]
 
 - 💬 You can ask me about ** Big Data, AI, Machine Learning, Data Science, AWS Cloud**
 
