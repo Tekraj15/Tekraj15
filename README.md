@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 💻 Data Engineer @ ZS Associates | Big Data Developer, Ex - @ Bungee Tech  || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
+- 💻 Senior Data Engineer @Incedo Inc. | Big Data | Machine Learning || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
 
 
  
-- 🖥 I previously worked as **1. Machine Learning & Data Engineer @ Vaionex Corporation, 2. Data Engineer @ Bungee Tech, 3. Machine Learning Developer Intern @ Dcoder 4. Machine Learning Intern @ CodeSpeedy Technology **
+- 🖥 I previously worked as **2. Data Engineer @ ZS Associates. 2. Machine Learning & Data Engineer @ Vaionex Corporation, 3. Data Engineer @ Bungee Tech, 4. Machine Learning Developer Intern @Dcoder 5. Machine Learning Intern @CodeSpeedy Technology **
 
 - 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://twitter.com/trawasthi_ai_]
 
