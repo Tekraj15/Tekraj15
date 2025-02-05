@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
-<h4 align="center">A DataPreneur hailing from the land of Majestic Mountains who loves to find the Altitude of data and leverage it's power.</h4>
+<h4 align="center"> An AI & Machine Learning developer hailing from the land of Majestic Mountains who loves to find the Altitude of data and leverage its full potential.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 💻 Senior Data Engineer @Incedo Inc. | Big Data | Machine Learning || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
+- 🎓 Pursuing MS Data Science with a major in AI at Friedrich-Alexander University, Erlangen, Germany 
+- 💻 Former Senior Data Engineer @Incedo Inc. | Big Data | Machine Learning || Primary Skills: Python, AWS, SQL, PySpark, Machine Learning, Deep Learning, Hadoop, Apache Airflow, Apache Kafka, ETL development, Dashboard Visualization
 
 
  
