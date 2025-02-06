@@ -9,7 +9,7 @@
 
  
 - 🖥 I previously worked as
-  **
+  
   1. Senior Data Engineer @Incedo Inc.,
   2. Data Engineer @ ZS Associates.
   3. Data Engineer @ Bungee Tech,
