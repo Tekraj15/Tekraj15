@@ -18,7 +18,7 @@
 
 - 📝 I regulary write on [https://x.com/trawasthi_ai, https://medium.com/@tekrajawasthi15]
 
-- 💬 You can ask me about ## AI, Machine Learning, Neural Networks, NLP, Chatbot Development, GenAI, LLM, Data Engineering, Big Data, AWS Cloud, etc.
+- 💬 You can ask me about **AI, Machine Learning, Neural Networks, NLP, Chatbot Development, GenAI, LLM, Data Engineering, Big Data, AWS Cloud, etc.
   
 - 📫 You can reach me at **tekrajawasthi15@gmail.com, https://x.com/trawasthi_ai, https://www.linkedin.com/in/tekrajawasthi15/**
 
@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekraj15&show_icons=true" alt="tekraj15" /></p>
 
 <p align="center">
-<a href="https://twitter.com/dotpyarmy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dotpyarmy" height="30" width="30" /></a>
+<a href="https://twitter.com/trawasthi_ai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dotpyarmy" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/tekrajawasthi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tekrajawasthi15" height="30" width="30" /></a>
 <a href="https://medium.com/@tekrajawasthi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tekrajawasthi15" height="30" width="30" /></a>
 </p>
