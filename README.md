@@ -16,11 +16,11 @@
   4. Machine Learning Intern @Dcoder
   5. Machine Learning Intern @CodeSpeedy Technology **
 
-- 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://x.com/trawasthi_ai]
+- 📝 I regulary write on [https://x.com/trawasthi_ai, https://medium.com/@tekrajawasthi15]
 
-- 💬 You can ask me about ** AI, Machine Learning, Neural Networks, NLP, Chatbot Development, GenAI, LLM, Data Engineering, Big Data, AWS Cloud, etc.**
+- 💬 You can ask me about ## AI, Machine Learning, Neural Networks, NLP, Chatbot Development, GenAI, LLM, Data Engineering, Big Data, AWS Cloud, etc.
   
-- 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/**
+- 📫 You can reach me at **tekrajawasthi15@gmail.com, https://x.com/trawasthi_ai, https://www.linkedin.com/in/tekrajawasthi15/**
 
 
 
