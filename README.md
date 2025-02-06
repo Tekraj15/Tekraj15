@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
 - 🎓 Pursuing MS Data Science with a major in AI at Friedrich-Alexander University, Erlangen, Germany 
-- 💻 Former  | Big Data | Machine Learning
--  Technical Skills: Python, AWS, SQL, PostgreSQL, Machine Learning, Deep Learning, ETL, Data Pipeline development, Chatbot Development, Generative AI, Agentic AI
--  Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apace Airflow, MlFlow
-
+- 🧑‍💻 🚀 Technical Skills: Python, AWS, SQL, PostgreSQL, Machine Learning, Deep Learning, ETL, Data Pipeline development, Chatbot Development, Generative AI, Agentic AI
+- 💻 🛠️ Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apace Airflow, MlFlow
 
  
 - 🖥 I previously worked as
