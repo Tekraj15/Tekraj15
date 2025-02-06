@@ -18,8 +18,8 @@
 
 - 📝 I regulary write on [https://medium.com/@tekrajawasthi15, https://x.com/trawasthi_ai]
 
-- 💬 You can ask me about ** Big Data, AI, Machine Learning, Data Science, AWS Cloud**
-
+- 💬 You can ask me about ** AI, Machine Learning, Neural Networks, NLP, Chatbot Development, GenAI, LLM, Data Engineering, Big Data, AWS Cloud, etc.**
+  
 - 📫 How to reach me **tekrajawasthi15@gmail.com, https://www.linkedin.com/in/tekrajawasthi15/**
 
 
