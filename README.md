@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
-- 🎓 Pursuing MS Data Science with a major in AI at Friedrich-Alexander University, Erlangen, Germany 
-- 🧑‍💻 🚀 Technical Skills: Python, AWS, SQL, PostgreSQL, Machine Learning, Deep Learning, ETL, Data Pipeline development, Chatbot Development, Generative AI, Agentic AI
+- 🎓 Pursuing MS Data Science with a major in AI & ML at Friedrich-Alexander University, Erlangen, Germany 
+- 🧑‍💻 🚀 Technical Skills: Python, AWS, SQL, PostgreSQL, Machine Learning, Deep Learning, MLOps, ETL, Data Pipeline development, Chatbot Development, Generative AI, Agentic AI
 - 💻 🛠️ Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apace Airflow, MlFlow
 
  
 - 🖥 I previously worked as
   
-  1. Senior Data Engineer @Incedo Inc.,
+  1. Senior Data Engineer @Incedo Inc,
   2. Data Engineer @ ZS Associates.
   3. Data Engineer @ Bungee Tech,
   4. Machine Learning Intern @Dcoder
