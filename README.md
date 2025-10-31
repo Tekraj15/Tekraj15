@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
-<h4 align="center"> An AI & Machine Learning developer hailing from the land of Majestic Mountains who loves to find the Altitude of data and leverage its full potential.</h4>
+<h4 align="center"> An AI & Machine Learning Engineer hailing from the land of Majestic Mountains who loves to find the Altitude of data and leverage its full potential.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
 - 🎓 Pursuing MS Data Science with a major in AI & ML at Friedrich-Alexander University, Erlangen, Germany 
-- 🧑‍💻 🚀 Technical Skills: Python, AWS, SQL, PostgreSQL, Pinecone VectorDB, Machine Learning, Deep Learning, MLOps, ETL, Data Pipeline development, Chatbot Development, Generative AI, RAG
-- 💻 🛠️ Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apache Spark, Apace Airflow, MlFlow, DagsHub, DVC
+- 🧑‍💻 🚀 Technical Skills: Python, AWS, SQL, PostgreSQL, Pinecone VectorDB, Machine Learning, Deep Learning, MLOps, ETL, Data Pipeline development, Chatbot Development, Generative AI, RAG, LLM
+- 💻 🛠️ Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apache Spark, Apace Airflow, MlFlow, DagsHub, DVC, LangChain
 
+
+ 🚀 Currently building around Language Models, RAG, Agentic AI, and advanced Deep Learning.
+ 🌊 Diving into the depths of Reinforcement Learning, LLM Fine-Tuning, LLM Distillation, etc.
  
 - 🖥 I previously worked as
   
   1. Senior Data Engineer @Incedo Inc,
-  2. Data Engineer @ ZS Associates.
+  2. Data Engineer @ Ascendion.
   3. Data Engineer @ Bungee Tech,
   4. Machine Learning Intern @Dcoder
   5. Machine Learning Intern @CodeSpeedy Technology **
