@@ -14,11 +14,10 @@
  
 - 🖥 I previously worked as
   
-  1. Senior Data Engineer @Incedo Inc,
+  1. Senior Data & ML Engineer @Incedo Inc,
   2. Data Engineer @ Ascendion.
-  3. Data Engineer @ Bungee Tech,
-  4. Machine Learning Intern @Dcoder
-  5. Machine Learning Intern @CodeSpeedy Technology **
+  3. Data & ML Engineer @ Bungee Tech,
+  4. Machine Learning Intern @ Dcoder
 
 - 📝 I regulary write on [https://x.com/trawasthi_ai, https://medium.com/@tekrajawasthi15]
 
