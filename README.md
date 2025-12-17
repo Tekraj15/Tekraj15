@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tek Raj Awasthi</h1>
-<h4 align="center"> An AI & Machine Learning Engineer hailing from the land of Majestic Mountains who loves to find the Altitude of data and leverage its full potential.</h4>
+<h4 align="center"> An AI & Machine Learning Engineer from the land of Majestic Mountains who loves to find the Altitude of data and leverage its full potential by adopting the innovative AI & Machine Learning techniques.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekraj15" alt="tekraj15" /> </p>
 
