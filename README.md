@@ -8,13 +8,14 @@
 - 💻 🛠️ Framework/tools: PySpark, Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch, RASA, Flask, Apache Spark, Apace Airflow, MlFlow, DagsHub, DVC, LangChain
 
 
- 🚀 Currently building around Language Models, RAG, Agentic AI, and advanced Deep Learning.
+ 🚀 Currently building around LLM, VLM, RAG, Agentic AI, Stable Diffusion, etc. Find my live projects in <a href="https://huggingface.co/Tekraj15/spaces" target="_blank" rel="noopener noreferrer">Hugging Face Space</a>
+
  
- 🌊 Diving into the depths of Reinforcement Learning, LLM Fine-Tuning, LLM Distillation, etc.
+ 🌊 Diving into the depths of Fine-Tuning, Post-training, and Compression of LLM and Multimodal AIs(VLM, Vision RAG), and Reinforcement Learning, etc.
  
 - 🖥 I previously worked as
   
-  1. Senior Data & ML Engineer @Incedo Inc,
+  1. Senior Data & Gen AI Engineer @Incedo Inc,
   2. Data Engineer @ Ascendion.
   3. Data & ML Engineer @ Bungee Tech,
   4. Machine Learning Intern @ Dcoder
